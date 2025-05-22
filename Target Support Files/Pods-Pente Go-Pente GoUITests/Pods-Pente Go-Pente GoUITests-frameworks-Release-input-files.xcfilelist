@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Pente Go-Pente GoUITests/Pods-Pente Go-Pente GoUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CocoaAsyncSocket/CocoaAsyncSocket.framework

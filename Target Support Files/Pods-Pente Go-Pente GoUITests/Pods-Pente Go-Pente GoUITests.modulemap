@@ -1,0 +1,6 @@
+framework module Pods_Pente_Go_Pente_GoUITests {
+  umbrella header "Pods-Pente Go-Pente GoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

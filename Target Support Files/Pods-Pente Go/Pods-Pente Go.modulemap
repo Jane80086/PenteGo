@@ -1,0 +1,6 @@
+framework module Pods_Pente_Go {
+  umbrella header "Pods-Pente Go-umbrella.h"
+
+  export *
+  module * { export * }
+}
