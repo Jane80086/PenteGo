@@ -131,8 +131,3 @@ PGPacketActionUndoReject,
 @property (strong, nonatomic) id data;
 @property (assign, nonatomic) PGPacketType type;
 @property (assign, nonatomic) PGPacketAction action;
-
-代码的整体思维导图
- 
-图2：软件代码思维导图
-![image](https://github.com/user-attachments/assets/11a623d2-7b08-4b31-96b2-b1cc84f52d1f)
